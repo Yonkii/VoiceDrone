@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\kewook\\Desktop\\drone_source(an_studio)\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\kewook\\.android\\build-cache\\c7c7fb199d5df777c6b5828d96380689db6710e7\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\kewook\\Desktop\\drone_source(an_studio)\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\kewook\\.android\\build-cache\\c7c7fb199d5df777c6b5828d96380689db6710e7\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\kewook\\Desktop\\drone_source(an_studio)\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\kewook\\.android\\build-cache\\c7c7fb199d5df777c6b5828d96380689db6710e7\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\kewook\\Desktop\\drone_source(an_studio)\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\kewook\\.android\\build-cache\\c7c7fb199d5df777c6b5828d96380689db6710e7\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

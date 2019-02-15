@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\ee3e2ca4c006c2a3eb8f6d8a42164244fc1ed44d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_979f903122fa2b200b1b745d932232b05d8041b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\d0013c0696378f175bdf6ae2036ba2d48d9ece9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_f1ad5ff542dd30f10e3dc7294a18ddd611cdc267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.1\e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\common-1.1.1_8e0f86c78b5f1eca0bc5676aac44758b474da364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\750fe337fc5e28bcfd3d5bd4f844506baff0424a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_e3c9055fbcce836ac55e1897d0c753e9fd72bb79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\ccc7114b087d804d0bc7fabbc645e1430198ec9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_c0a526289e7c96d20a62c6ca0b9d0e6859adb4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\dde428685674355ca58711ce0965348c7554ccf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_251fc5350e7f1230d882ffca8476730235fa80b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.gradle\caches\modules-2\files-2.1\com.android.support\collections\28.0.0\c1bcdade4d3cc2836130424a3f3e4182c666a745\collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\collections-28.0.0_a4e6669e342930f4666e4b1e66f68f2fe9d32504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\d60540999386962de62bf7cbb49c01b7ab232724\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_cef902c7e65a9e6439db6897f0986750217b0980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\c25029b9b47ef883cbfcfba342f22fc866b0ef18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_20005d5041a38d73d1278bbe4ef7a1fe9f9ad006.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\77fe237eb93470070bfb0ec6b0037f656cd74138\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_34182708bab34c0f3e7a8060e26f6892870e88b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\c3ebd63bbc8ae2483571644e63943f5f29ecfa8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_ae55826d7f41f51147448698ff47ffcb2e5d415c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\bb120251f3aa61749120786457c1f0f3c719cf46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_5a543dddd9290c8cbdf5ac0426e048e5a2428abd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\c7c7fb199d5df777c6b5828d96380689db6710e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_22728cde7666b731d83a6721ee14ce996148f0bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\2c485c110409c5c49954595757a4b90920147dbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_7ae69c5a8eb0d050e73f88aa21a5a1642e7ed496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\8e111a7892e79e1da02483dd660c38288d932be7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_c17f986ce388036b6a45274ac3410068571f8f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\d032657dbd8fe2acf299eb901881b76ccad752bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_a7669b3b22453a8f674bea481de2502b0a85fc8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\053dcfa5ef0e4281a75226e58aadd2d458487016\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_c3ad3ec900feb9884dbce0067e0b107b3cacb60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.1\207a6efae6a3555e326de41f76bdadd9a239cbce\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\common-1.1.1_2d0a598852257bdcc2f1903470a12e9ce6682ee3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\d0dfbdc51f750e6958128930f64d6b44c58b661f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_752d2d1fca309279cb862e0cc4a4601fe6fedf04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\5b45c30809a2c54431d3392270e467c41d1f7c25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_d30b8a0bc843727e2f32c07a3f9a750bf6d47e51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\1bc50115243ddc90d66db2daa5c0a62e9ecf7669\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_88e3b0e9151b223a638eb816bc0c725c54ba9fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\65298e33431074515cc7d6e270855cbe74a9b041\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_aa17919abf4d188609c80c1b8b0469dd131c8356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\dec11f42021ed91d2af68e58aa0eaf83b8f41dd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_0473e8246bf88cd56d9a19868ec0f494783e0b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\02e0771ae28dd4980923dc17903fa13a11e41fe9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_fd3b0094951ab34d5023a17892b283170c5fbfa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\28.0.0\ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8\support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\support-annotations-28.0.0_7236a84c5cf1b1824d6de9c34b92e41d2131bbe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\4288ea6f8a5689364a4762396933e31827d1f21c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_bcb5a8dc409f7a0e2c71abbb8db3743544467842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\695470c5450b74ce23a91852b8577b3590199ac0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_1fdedce3df45bd84b6093a2c5d1ca9cb2e969922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\a8d4a8571612b9661d0cc803022482f9d4031218\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_5554dc37bb6d1fa965c016e6f97bbec9f47e935c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\fd26ed3d6cf24c84ed092ba6f21980a14b3f0e05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_8ad7ad02bfd794935aa03a0252b298457cd802cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\b6c27183432f771dc4d0a16a76c672b3b6d0ccbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ada02cfa6d6403e90138de411c67d8f6763b3018">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_e3cf1cc76d3a681a9a1fcdc8771a6c785f1e71c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kewook\.android\build-cache\87d95aeec21bf6888504f50ca0771f06b9741d53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="C:\Users\kewook\Desktop\drone_source(an_studio)\build\intermediates\pre-dexed\debug\classes_2cebd937063ae76b2822b65096942160bfbafe73.jar" />
+    </item>
+
+</items>

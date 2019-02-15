@@ -1,0 +1,4 @@
+#Tue Feb 12 17:51:40 KST 2019
+base.0=C\:\\Users\\kewook\\Desktop\\drone_source(an_studio)\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\kewook\\Desktop\\drone_source(an_studio)\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
