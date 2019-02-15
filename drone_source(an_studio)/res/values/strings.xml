@@ -34,4 +34,5 @@
     <string name="menu_disconnect">Disconnect</string>
     <string name="menu_scan">Scan</string>
     <string name="menu_stop">Stop</string>
+    <string name="command">---------드론 명령어---------\n출발 / 정지\n올라가 / 올라 / 올려\n내려가 / 내려와 / 내려\n오른쪽 / 왼쪽 / 앞으로 / 뒤로\n그만 / 제자리 \n-----------------------------------------\n</string>
 </resources>
