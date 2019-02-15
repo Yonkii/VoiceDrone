@@ -14,6 +14,7 @@
      See the License for the specific language governing permissions and
 -->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/RelativeLayout1"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
@@ -38,11 +39,13 @@
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical" >
+        android:orientation="vertical">
+
+
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" >
+            android:layout_height="wrap_content">
 
             <TextView
                 android:id="@+id/TextView1"
@@ -63,7 +66,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" >
+            android:layout_height="wrap_content">
 
             <TextView
                 android:id="@+id/TextView2"
@@ -83,7 +86,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" >
+            android:layout_height="wrap_content">
 
             <TextView
                 android:id="@+id/TextView3"
@@ -106,14 +109,14 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp" >
+        android:layout_marginTop="100dp">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <SeekBar
                 android:id="@+id/th_bar"
@@ -126,8 +129,10 @@
 
             <TextView
                 android:id="@+id/sendValue"
-                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_width="18dp"
                 android:layout_height="wrap_content"
+                android:rotation="90"
                 android:text="0" />
 
             <Button
@@ -135,22 +140,25 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_marginTop="50dp"
+                android:rotation="90"
                 android:text="왼쪽" />
 
             <LinearLayout
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content" >
+                android:layout_height="wrap_content">
 
                 <Button
                     android:id="@+id/back_button"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:text="왼쪽" />
+                    android:rotation="90"
+                    android:text="후진" />
 
                 <Button
                     android:id="@+id/fwd_button"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
+                    android:rotation="90"
                     android:text="전진" />
 
                 <Button
@@ -158,6 +166,7 @@
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_marginLeft="100dp"
+                    android:rotation="90"
                     android:text="음성" />
 
             </LinearLayout>
@@ -166,9 +175,29 @@
                 android:id="@+id/right_button"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
+                android:rotation="90"
                 android:text="오른쪽" />
 
         </LinearLayout>
+
     </RelativeLayout>
+
+    <TextView
+        android:id="@+id/command_view"
+        android:layout_width="297dp"
+        android:layout_height="222dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginEnd="14dp"
+        android:layout_marginBottom="0dp"
+        android:background="@android:color/darker_gray"
+        android:orientation="horizontal"
+        android:rotation="90"
+        android:text="@string/command"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="24sp"
+        android:textStyle="normal"></TextView>
 
 </RelativeLayout>
